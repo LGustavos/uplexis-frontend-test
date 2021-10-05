@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Todos",
+    "icon": "globe",
+    "type": "all",
+    "active": true
+  },
+  {
+    "title": "Profissional",
+    "icon": "briefcase",
+    "type": "professional",
+    "active": false
+  },
+  {
+    "title": "Reguladores",
+    "icon": "landmark",
+    "type": "regulators",
+    "active": false
+  },
+  {
+    "title": "Sócio Ambiental",
+    "icon": "tree",
+    "type": "environmental-partner",
+    "active": false
+  },
+  {
+    "title": "Jurídico",
+    "icon": "gavel",
+    "type": "legal",
+    "active": false
+  },
+  {
+    "title": "Listas Restritivas",
+    "icon": "ban",
+    "type": "restrictive-lists",
+    "active": false
+  },
+  {
+    "title": "Midia / Internet",
+    "icon": "globe-americas",
+    "type": "media",
+    "active": false
+  },
+  {
+    "title": "Bens e Imóveis",
+    "icon": "gem",
+    "type": "properties",
+    "active": false
+  },
+  {
+    "title": "Cadastro",
+    "icon": "user",
+    "type": "registration",
+    "active": false
+  },
+  {
+    "title": "Financeiro",
+    "icon": "piggy-bank",
+    "type": "financial",
+    "active": false
+  }
+]

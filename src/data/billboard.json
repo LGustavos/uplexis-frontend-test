@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Histórico Empresarial",
+    "description": "O aplicativo Histórico Empresarial permite ao usuário ter acesso a todos os fatos e acontecimentos relevantes de uma empresa desde o seu ano de fundação.",
+    "price": "40,00",
+    "logo": "https://i.ibb.co/5KFSZB6/logo-upminer-2.png",
+    "background": "https://i.ibb.co/kSrkz4F/Sem-T-tulo-1.jpg",
+    "textColor": "#ffffff",
+    "titleColor": "#ffffff",
+    "separatorColor": "#ffffff"
+  },
+  {
+    "title": "Histórico Empresarial",
+    "description": "O aplicativo Histórico Empresarial permite ao usuário ter acesso a todos os fatos e acontecimentos relevantes de uma empresa desde o seu ano de fundação.",
+    "price": "40,00",
+    "logo": "https://i.ibb.co/VtsmQ6V/logo-upminer.png",
+    "background": "https://i.ibb.co/19SVtVC/Sem-T-tulo-2.jpg",
+    "textColor": "#606060",
+    "titleColor": "#00000",
+    "separatorColor": "#a5a5a5"
+  }
+]
